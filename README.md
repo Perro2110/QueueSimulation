@@ -1,4 +1,7 @@
 # Simulatore di un sistema a coda di tipo M/M/C 
+<div align="center">
+Progetto svolto da: Adriano Di Nunzio, Marco Perrotta, Lorenzo Negrini 
+</div>
 
 ### Scopo del Progetto: 
 Creare un simulatore ad eventi di un sistema a coda di tipo M/M/C.
